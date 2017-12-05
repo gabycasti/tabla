@@ -1,0 +1,14 @@
+/* Los estilos de tu proyecto */
+body {
+	margin: 0 auto;
+	padding: 0;
+}
+
+.logo{
+	margin-top: 5px;
+}
+
+.navbar-default {
+  background-color: #fff;
+  border-color: #fff;
+}
